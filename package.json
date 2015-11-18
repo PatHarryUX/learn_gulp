@@ -1,0 +1,19 @@
+{
+  "name": "learn_gulp",
+  "version": "1.0.0",
+  "description": "This is the repo with the project I built to learn how to use Gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PatHarryUX/learn_gulp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PatHarryUX/learn_gulp/issues"
+  },
+  "homepage": "https://github.com/PatHarryUX/learn_gulp#readme"
+}
